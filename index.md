@@ -2,6 +2,8 @@
 layout: main
 ---
 
+![Branching](assets/images/header_img.jpg)
+
 # Academic Interest
 
 I am interested in robotics and machine learning with a focus on perception, planning, and control in uncertain environments. I am currently doing research on the applications of deep reinforcement learning to robotic tactile and force sensing.
@@ -26,19 +28,15 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 # Research
 
-### Research Assistant
+### Graduate Research Assistant
 
-2018 - Present
-
-Northeastern University Khoury College of Computer Sciences, Boston, MA
+[The Helping Hands Lab at Northeastern University](https://www2.ccs.neu.edu/research/helpinghands/index.html), Boston, MA, 2018 - Present
 
 Conduct research on the applications of deep reinforcement learning to robotic tactile and force sensing.
 
-### Research Assistant
+### Undergraduate Research Assistant
 
-2010 - 2011
-
-Tianjin University of Science and Technology, Tianjin, China
+Tianjin University of Science and Technology, Tianjin, China, 2010 - 2011
 
 Conducted research on motion control approaches to the indoor navigation and exploration of autonomous mobile four-wheeled robots.
 
@@ -46,7 +44,7 @@ Conducted research on motion control approaches to the indoor navigation and exp
 
 # Teaching
 
-### Graduate Teaching Assistant at Northeastern University:
+### Graduate Teaching Assistant at Northeastern University, Boston:
 
 *   CS 3520: Programming in C++ (Spring 2020)
 *   IS 1500: Introduction to Web Development (Fall 2019)
@@ -59,16 +57,12 @@ Conducted research on motion control approaches to the indoor navigation and exp
 
 ### Mechatronics Engineer
 
-2015 - 2017
-
-Perfetch LLC, Malden, MA
+Perfetch LLC, Malden, MA, 2015 - 2017
 
 Developed and prototyped the mechatronics systems for the 3D scanners for the human body.
 
 ### Mechanical Engineer
 
-2014 - 2015
-
-Biomille Technologies, Boston, MA
+Biomille Technologies, Boston, MA, 2014 - 2015
 
 Designed and prototyped a bracket system for a medical device for facial rehabilitation.
