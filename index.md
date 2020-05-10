@@ -1,123 +1,74 @@
 ---
-layout: default
+layout: main
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Academic Interest
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+I am interested in robotics and machine learning with a focus on perception, planning, and control in uncertain environments. I am currently doing research on the applications of deep reinforcement learning to robotic tactile and force sensing.
 
 * * *
 
-### Here is an unordered list:
+# Education
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Master of Science in Computer Science
 
-### And an ordered list:
+Northeastern University Khoury College of Computer Sciences, Boston, MA, 2017
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### Master of Science in Mechanical Engineering
 
-### And a nested list:
+Northeastern University College of Engineering, Boston, MA, 2014
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### Bachelor of Engineering in Mechatronics Engineering
 
-### Small image
+Tianjin University of Science and Technology, Tianjin, China, 2011
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+* * *
 
-### Large image
+# Research
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### Research Assistant
 
+2018 - Present
 
-### Definition lists can be used with HTML syntax.
+Northeastern University Khoury College of Computer Sciences, Boston, MA
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Conduct research on the applications of deep reinforcement learning to robotic tactile and force sensing.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Research Assistant
 
-```
-The final element.
-```
+2010 - 2011
+
+Tianjin University of Science and Technology, Tianjin, China
+
+Conducted research on motion control approaches to the indoor navigation and exploration of autonomous mobile four-wheeled robots.
+
+* * *
+
+# Teaching
+
+### Graduate Teaching Assistant at Northeastern University:
+
+*   CS 3520: Programming in C++ (Spring 2020)
+*   IS 1500: Introduction to Web Development (Fall 2019)
+*   CS 5004: Object-Oriented Design (Summer 2018-2019)
+*   DS 5010: Introduction to Programming for Data Science (Fall 2018, Spring 2019)
+
+* * *
+
+# Experience
+
+### Mechatronics Engineer
+
+2015 - 2017
+
+Perfetch LLC, Malden, MA
+
+Developed and prototyped the mechatronics systems for the 3D scanners for the human body.
+
+### Mechanical Engineer
+
+2014 - 2015
+
+Biomille Technologies, Boston, MA
+
+Designed and prototyped a bracket system for a medical device for facial rehabilitation.
