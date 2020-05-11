@@ -30,7 +30,7 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 ### Graduate Research Assistant
 
-[The Helping Hands Lab at Northeastern University](https://www2.ccs.neu.edu/research/helpinghands/index.html), Boston, MA, 2018 - Present
+The Helping Hands Lab at Northeastern University, Boston, MA, 2018 - Present
 
 - Conduct research on the applications of deep reinforcement learning to robotic tactile and force sensing.
 
