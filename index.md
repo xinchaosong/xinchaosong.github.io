@@ -2,11 +2,11 @@
 layout: main
 ---
 
-![Branching](assets/images/header_img.jpg)
+![cover](assets/images/header_img.jpg)
 
-# Academic Interest
+# About Me
 
-I am interested in robotics and machine learning with a focus on perception, planning, and control in uncertain environments. I am currently doing research on the applications of deep reinforcement learning to robotic tactile and force sensing.
+I am currently a Research Assistant advised by Prof. Robert Platt in the Khoury College of Computer Sciences at Northeastern University. I have two master's degrees in computer science and mechanical engineering respectively with several years' relevant working and research experience. My research interest is robotics and machine learning with a focus on perception, planning, control, and manipulation, especially from an interdisciplinary perspective of software and hardware. My recent research is focusing on the applications of deep reinforcement learning to robotic tactile and force sensing.
 
 * * *
 
@@ -26,34 +26,19 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 * * *
 
-# Research
+# Experience
 
-### Graduate Research Assistant
+### Graduate Research Assistant in Robotics
 
-The Helping Hands Lab at Northeastern University, Boston, MA, 2018 - Present
+The Helping Hands Lab at Northeastern University, Boston, MA, 2019 - Present
 
 - Conduct research on the applications of deep reinforcement learning to robotic tactile and force sensing.
 
-### Undergraduate Research Assistant
+### Graduate Teaching Assistant in Computer Sciences
 
-Tianjin University of Science and Technology, Tianjin, China, 2010 - 2011
+Northeastern University Khoury College of Computer Sciences, Boston, MA, 2018 - 2020
 
-- Conducted research on motion control approaches to the indoor navigation and exploration of autonomous mobile four-wheeled robots.
-
-* * *
-
-# Teaching
-
-### Graduate Teaching Assistant at Northeastern University, Boston:
-
-- CS 3520: Programming in C++ (Spring 2020)
-- IS 1500: Introduction to Web Development (Fall 2019)
-- CS 5004: Object-Oriented Design (Summer 2018-2019)
-- DS 5010: Introduction to Programming for Data Science (Fall 2018, Spring 2019)
-
-* * *
-
-# Experience
+- Assisted in several courses in computer science and data science, see the teaching section for details.
 
 ### Mechatronics Engineer
 
@@ -66,3 +51,9 @@ Perfetch LLC, Malden, MA, 2015 - 2017
 Biomille Technologies, Boston, MA, 2014 - 2015
 
 - Designed and prototyped a bracket system for a medical device for facial rehabilitation.
+
+### Undergraduate Research Assistant in Robotics
+
+Tianjin University of Science and Technology, Tianjin, China, 2010 - 2011
+
+- Conducted research on motion control approaches to the indoor navigation and exploration of autonomous mobile four-wheeled robots.
