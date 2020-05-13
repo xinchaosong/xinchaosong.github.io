@@ -9,7 +9,7 @@ layout: main
 {:style="clear: left"}
 &nbsp;
 
-### Motion Planning Based on the Prediction
+### Motion Planning Based on Prediction
 
 <img class="list-img" src="assets/images/predictive-motion-planning.jfif"/> Develop motion planning approaches based on predictive information from Long Short-Term Memory (LSTM) autoencoders.
 
