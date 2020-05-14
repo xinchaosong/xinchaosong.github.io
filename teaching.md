@@ -2,6 +2,8 @@
 layout: main
 ---
 
+# Teaching
+
 ### Graduate Teaching Assistant at Northeastern University, Boston:
 
 - **CS 3520: Programming in C++ (Spring 2020)**
