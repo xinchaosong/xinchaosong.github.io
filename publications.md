@@ -6,7 +6,7 @@ layout: main
 
 ### Imitation Learning in POMDPs with Contacts
 
-Hai Nguyen, Xinchao Song, Christopher Amato, Robert Platt. *Robotics: Science and Systems (RSS 2020), Workshop: Reacting to Contact*. July 2020. [[pdf](http://mlab.ri.cmu.edu/reacting_contact_workshop/files/hai_nguyen.pdf)]
+Hai Nguyen, Xinchao Song, Christopher Amato, Robert Platt. *Robotics: Science and Systems (RSS 2020): Reacting to Contact Workshop*. July 2020. [[pdf](http://mlab.ri.cmu.edu/reacting_contact_workshop/files/hai_nguyen.pdf)]
 
 <iframe class="list-video-left" width="352" height="198" src="https://www.youtube.com/embed/OgJq-AVdJc0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
