@@ -14,7 +14,7 @@ I am currently a Research Assistant advised by Prof. Robert Platt in the Khoury 
 
 ### Master of Science in Computer Science
 
-Northeastern University Khoury College of Computer Sciences, Boston, MA, 2017
+Northeastern University Khoury College of Computer Sciences, Boston, MA, 2020
 
 ### Master of Science in Mechanical Engineering
 
