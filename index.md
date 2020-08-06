@@ -36,7 +36,7 @@ The Helping Hands Lab at Northeastern University, Boston, MA, 2019 - Present
 
 ### Lead Teaching Assistant in Computer Sciences
 
-Northeastern University Khoury College of Computer Sciences, Boston, MA, 2018 - 2020
+Northeastern University Khoury College of Computer Sciences, Boston, MA, 2018 - Present
 
 - Assisted in several courses in computer science and data science, see the teaching section for details.
 
