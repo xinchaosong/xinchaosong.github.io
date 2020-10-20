@@ -10,7 +10,7 @@ layout: main
 
   Examines how to program in C++ in a robust and safe manner. Reviews basics, discusses data types and object-oriented design, introduces the strategy for dynamic memory management, and addresses operator overloading and templates.
 
-- **IS 1500: Introduction to Web Development (Fall 2019)**
+- **IS 1500: Introduction to Web Development (Fall 2019-2020)**
 
   Introduces web development and networks by a survey of all essential concepts and by the use of business tools that simplify the programming work.
 
