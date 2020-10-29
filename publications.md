@@ -6,7 +6,7 @@ layout: main
 
 ### Belief-Grounded Networks for Accelerated Robot Learning under Partial Observability
 
-Hai Nguyen, Brett Daley, **<u>Xinchao Song</u>**, Chistopher Amato, and Robert Platt. *Accepted by the 4th Annual Conference on Robot Learning*. November, 2020. [[website](https://sites.google.com/view/bgn-pomdp)]
+Hai Nguyen\*, Brett Daley\*, **<u>Xinchao Song</u>**, Chistopher Amato, and Robert Platt. *Accepted by the 4th Annual Conference on Robot Learning*. November, 2020. [[website](https://sites.google.com/view/bgn-pomdp)]
 
 <iframe class="list-video-right" width="400" height="225" src="https://www.youtube.com/embed/3IP8rNhzquA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
