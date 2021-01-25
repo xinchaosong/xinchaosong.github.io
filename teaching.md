@@ -10,13 +10,13 @@ layout: main
 
   Presents an integrated approach to the study of data structures, algorithms, and their application within computer systems topics.
 
-- **CS 3520: Programming in C++ (Spring 2020)**
-
-  Examines how to program in C++ in a robust and safe manner. Reviews basics, discusses data types and object-oriented design, introduces the strategy for dynamic memory management, and addresses operator overloading and templates.
-
 - **IS 1500: Introduction to Web Development (Fall 2019-2020)**
 
   Introduces web development and networks by a survey of all essential concepts and by the use of business tools that simplify the programming work.
+  
+- **CS 3520: Programming in C++ (Spring 2020)**
+
+  Examines how to program in C++ in a robust and safe manner. Reviews basics, discusses data types and object-oriented design, introduces the strategy for dynamic memory management, and addresses operator overloading and templates.
 
 - **CS 5004: Object-Oriented Design (Summer 2018-2019)**
 
