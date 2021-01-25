@@ -6,6 +6,10 @@ layout: main
 
 ### Lead Teaching Assistant at Northeastern University, Boston:
 
+- **CS 5008: Data Structures, Algorithms, and Their Applications within Computer Systems (Spring 2021)**
+
+  Presents an integrated approach to the study of data structures, algorithms, and their application within computer systems topics.
+
 - **CS 3520: Programming in C++ (Spring 2020)**
 
   Examines how to program in C++ in a robust and safe manner. Reviews basics, discusses data types and object-oriented design, introduces the strategy for dynamic memory management, and addresses operator overloading and templates.
