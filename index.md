@@ -12,6 +12,10 @@ I am currently a Research Assistant advised by Prof. Robert Platt in the Khoury 
 
 # Education
 
+### Ph.D. Student in Computer Science
+
+Clarkson University, Potsdam, NY, 2025 (expected)
+
 ### Master of Science in Computer Science
 
 Northeastern University Khoury College of Computer Sciences, Boston, MA, 2020
@@ -30,13 +34,17 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 ### Graduate Research Assistant in Robotics
 
-The Helping Hands Lab at Northeastern University, Boston, MA, 2019 - Present
+Terascale All-sensing Research Studio at Clarkson University, Potsdam, NY, 2021 - Present
+
+### Graduate Research Assistant in Robotics
+
+Helping Hands Lab at Northeastern University, Boston, MA, 2019 - Present
 
 - Conduct research on the applications of deep reinforcement learning to robotic tactile and force sensing.
 
 ### Lead Teaching Assistant in Computer Sciences
 
-Northeastern University Khoury College of Computer Sciences, Boston, MA, 2018 - Present
+Northeastern University Khoury College of Computer Sciences, Boston, MA, 2018 - 2021
 
 - Assisted in several courses in computer science and data science, see the teaching section for details.
 
