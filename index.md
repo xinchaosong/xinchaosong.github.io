@@ -12,17 +12,13 @@ I am currently a Research Assistant advised by Prof. Robert Platt in the Khoury 
 
 # Education
 
-### Ph.D. Student in Computer Science
-
-Clarkson University, Potsdam, NY, 2025 (expected)
-
 ### Master of Science in Computer Science
 
-Northeastern University Khoury College of Computer Sciences, Boston, MA, 2020
+Northeastern University, Boston, MA, 2020
 
 ### Master of Science in Mechanical Engineering
 
-Northeastern University College of Engineering, Boston, MA, 2014
+Northeastern University, Boston, MA, 2014
 
 ### Bachelor of Engineering in Mechatronics Engineering
 
@@ -31,10 +27,6 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 * * *
 
 # Experience
-
-### Graduate Research Assistant in Robotics
-
-Terascale All-sensing Research Studio at Clarkson University, Potsdam, NY, 2021 - Present
 
 ### Graduate Research Assistant in Robotics
 
