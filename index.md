@@ -34,13 +34,13 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 ### Research Assistant in Robotics
 
-[Terascale All-sensing Research Studio](https://tars.clarkson.edu/) at Clarkson University, Potsdam, New York, 2021 - Present
+Terascale All-sensing Research Studio at Clarkson University, Potsdam, New York, 2021 - Present
 
 - Conduct research on robotics
 
 ### Research Assistant in Robotics
 
-[Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/index.html) at Northeastern University, Boston, Massachusetts, 2019 - 2021
+Helping Hands Lab at Northeastern University, Boston, Massachusetts, 2019 - 2021
 
 - Conduct research on the applications of deep reinforcement learning to robotic tactile and force sensing.
 
