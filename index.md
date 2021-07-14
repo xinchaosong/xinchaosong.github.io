@@ -14,15 +14,15 @@ I am currently a Research Assistant in Robotics at Clarkson University. I have t
 
 ### Ph.D. Student in Computer Science
 
-Clarkson University, Potsdam, New York, United States, 2021 - Present
+Clarkson University, Potsdam, New York, 2021 - Present
 
 ### Master of Science in Computer Science
 
-Northeastern University, Boston, Massachusetts, United States, 2020
+Northeastern University, Boston, Massachusetts, 2020
 
 ### Master of Science in Mechanical Engineering
 
-Northeastern University, Boston, Massachusetts, United States, 2014
+Northeastern University, Boston, Massachusetts, 2014
 
 ### Bachelor of Engineering in Mechatronics Engineering
 
@@ -34,31 +34,31 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 ### Research Assistant in Robotics
 
-[Terascale All-sensing Research Studio](https://tars.clarkson.edu/) at Clarkson University, Potsdam, New York, United States, 2021 - Present
+[Terascale All-sensing Research Studio](https://tars.clarkson.edu/) at Clarkson University, Potsdam, New York, 2021 - Present
 
 - Conduct research on robotics
 
 ### Research Assistant in Robotics
 
-[Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/index.html) at Northeastern University, Boston, Massachusetts, United States, 2019 - 2021
+[Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/index.html) at Northeastern University, Boston, Massachusetts, 2019 - 2021
 
 - Conduct research on the applications of deep reinforcement learning to robotic tactile and force sensing.
 
 ### Lead Teaching Assistant in Computer Sciences
 
-Northeastern University Khoury College of Computer Sciences, Boston, Massachusetts, United States, 2018 - 2021
+Northeastern University Khoury College of Computer Sciences, Boston, Massachusetts, 2018 - 2021
 
 - Assisted in several courses in computer science and data science, see the teaching section for details.
 
 ### Mechatronics Engineer
 
-Perfetch LLC, Malden, Massachusetts, United States, 2015 - 2017
+Perfetch LLC, Malden, Massachusetts, 2015 - 2017
 
 - Developed and prototyped the mechatronics systems for the 3D scanners for the human body.
 
 ### Mechanical Engineer
 
-Biomille Technologies, Boston, Massachusetts, United States, 2014 - 2015
+Biomille Technologies, Boston, Massachusetts, 2014 - 2015
 
 - Designed and prototyped a bracket system for a medical device for facial rehabilitation.
 
