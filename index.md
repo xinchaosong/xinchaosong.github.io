@@ -56,7 +56,7 @@ Perfetch LLC, Malden, Massachusetts, 2015 - 2017
 
 - Developed and prototyped the mechatronics systems for the 3D scanners for the human body.
 
-### Mechanical Engineer
+### Product Engineer
 
 Biomille Technologies, Boston, Massachusetts, 2014 - 2015
 
