@@ -4,7 +4,13 @@ layout: main
 
 # Teaching
 
-### Lead Teaching Assistant at Northeastern University, Boston:
+### Teaching Assistant at Clarkson University:
+
+- **CS 242: Advanced Programming Concepts in Java (Fall 2021)**
+
+  Introduces basic object-oriented programming design, graphical user interfaces (GUIs), exception handling, multithreading and synchronization, networking, and client/server applications.
+
+### Teaching Assistant at Northeastern University, Boston:
 
 - **CS 5008: Data Structures, Algorithms, and Their Applications within Computer Systems (Spring 2021)**
 
