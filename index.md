@@ -6,7 +6,7 @@ layout: main
 
 # About Me
 
-I am currently a Research Assistant in Robotics at Clarkson University. I have two master's degrees in computer science and mechanical engineering respectively with several years' relevant working and research experience. My research interest is robotics and machine learning with a focus on perception, planning, control, and manipulation, especially from an interdisciplinary perspective of software and hardware. My recent research is focusing on the applications of deep reinforcement learning to robotic tactile and force sensing.
+I am currently a Ph.D. Student in Computer Science at Clarkson University. I have two master's degrees in computer science and mechanical engineering respectively with several years' relevant working and research experience. My research interest is robotics and machine learning with a focus on perception, planning, control, and manipulation, especially from an interdisciplinary perspective of software and hardware. 
 
 * * *
 
