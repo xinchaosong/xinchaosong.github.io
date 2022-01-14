@@ -6,6 +6,10 @@ layout: main
 
 ### Teaching Assistant at Clarkson University:
 
+- **CS 444/544: Operating Systems (Spring 2022)**
+
+  Introduces the concepts of operating systems, their structures and organization. Major topics include process management, storage management, protection and security issues, and distributed systems.
+
 - **CS 242: Advanced Programming Concepts in Java (Fall 2021)**
 
   Introduces basic object-oriented programming design, graphical user interfaces (GUIs), exception handling, multithreading and synchronization, networking, and client/server applications.
