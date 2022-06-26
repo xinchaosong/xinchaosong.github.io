@@ -6,7 +6,9 @@ layout: main
 
 # About Me
 
-I am currently a Ph.D. Student in Computer Science at Clarkson University. I have two master's degrees in computer science and mechanical engineering respectively with several years' relevant working and research experience. My research interest is robotics and machine learning with a focus on perception, planning, control, and manipulation, especially from an interdisciplinary perspective of software and hardware. 
+I am currently a Ph.D. Student in Computer Science at Clarkson University, Potsdam, New York. My advisers are [Prof. Natasha Banerjee](https://www.clarkson.edu/people/natasha-banerjee) and [Prof. Sean Banerjee](https://www.clarkson.edu/people/sean-banerjee). Before joining Clarkson, I received my master's degree in computer science at Northeastern University, Boston, Massachusetts, where I was advised by [Prof. Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/). I also worked in the mechanical engineering field for many years with a master of science in mechanical engineering.
+
+My research interest is robotics and deep learning with a focus on multimodal perception, planning, control, and manipulation, especially from an interdisciplinary perspective of software and hardware.
 
 * * *
 
@@ -34,13 +36,13 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 ### Research Assistant in Robotics
 
-Terascale All-sensing Research Studio at Clarkson University, Potsdam, New York, 2021 - Present
+[Terascale All-sensing Research Studio (TARS)](https://tars.clarkson.edu/) at Clarkson University, Potsdam, New York, 2021 - Present
 
-- Conduct research on robotics
+- Conduct research on robotics and multimodal sensing
 
 ### Research Assistant in Robotics
 
-Helping Hands Lab at Northeastern University, Boston, Massachusetts, 2019 - 2021
+[Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at Northeastern University, Boston, Massachusetts, 2019 - 2021
 
 - Conduct research on the applications of deep reinforcement learning to robotic tactile and force sensing.
 
