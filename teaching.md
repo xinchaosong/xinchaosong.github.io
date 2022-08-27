@@ -10,7 +10,7 @@ layout: main
 
   Introduces the concepts of operating systems, their structures and organization. Major topics include process management, storage management, protection and security issues, and distributed systems.
 
-- **CS 242: Advanced Programming Concepts in Java (Fall 2021)**
+- **CS 242: Advanced Programming Concepts in Java (Fall 2021-2022)**
 
   Introduces basic object-oriented programming design, graphical user interfaces (GUIs), exception handling, multithreading and synchronization, networking, and client/server applications.
 
