@@ -8,7 +8,7 @@ layout: main
 
 **<u>Xinchao Song</u>**\*, Nikolas Lamb\*, Sean Banerjee, Natasha Kholgade Banerjee. *2023 International Conference on Automation, Robotics and Applications (ICARA)*. [Paper available soon]
 
-<img class="list-img-left" src="assets/images/robot_repair_icara2023.png"/>
+<img class="list-img-left" width="400" height="225" src="assets/images/robot_repair_icara2023.png"/>
 
 We propose a reinforcement learning approach using two novel visual metrics, which we term pixel offset error and assembly error, to assemble complex fractured objects. Our approach does not place constraints on object geometry and estimates the assembly state of the constituent objects in real time. We show tightly assembled fractured and restored pairs in simulation and on real robots.
 
