@@ -10,10 +10,8 @@ layout: main
 
 <img class="list-img-left" width="400" height="225" src="assets/images/robot_repair_icara2023.png"/>
 
-We propose a reinforcement learning approach using two novel visual metrics, which we term pixel offset error and assembly error, to assemble complex fractured objects. Our approach does not place constraints on object geometry and estimates the assembly state of the constituent objects in real time. We show tightly assembled fractured and restored pairs in simulation and on real robots.
+We present a reinforcement learning approach that combines visual and tactile information to automatically assemble repair parts to fractured objects. We propose two novel visual metrics, which we term pixel offset error and assembly error, to provide estimation of assembly state. Our approach does not place constraints on object geometry and estimates the assembly state of the constituent objects in real time. We show tightly assembled fractured and restored pairs in simulation and on real robots.
 
-&nbsp;
-&nbsp;
 &nbsp;
 
 ### Belief-Grounded Networks for Accelerated Robot Learning under Partial Observability
