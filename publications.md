@@ -6,7 +6,7 @@ layout: main
 
 ### Reinforcement-Learning Based Robotic Assembly of Fractured Objects Using Visual and Tactile Information
 
-**<u>Xinchao Song\*</u>**, Nikolas Lamb\*, Sean Banerjee, Natasha Kholgade Banerjee. 2023 International Conference on Automation, Robotics and Applications (ICARA).
+**<u>Xinchao Song</u>**\*, Nikolas Lamb\*, Sean Banerjee, Natasha Kholgade Banerjee. 2023 International Conference on Automation, Robotics and Applications (ICARA).
 
 In this paper, we propose a reinforcement learning approach using two novel visual metrics, which we term pixel offset error and assembly error, to assemble complex fractured objects. Our approach does not place constraints on object geometry and estimates the assembly state of the constituent objects in real time. We show tightly assembled fractured and restored pairs in simulation and on real robots.
 
