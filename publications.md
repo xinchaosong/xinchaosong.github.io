@@ -4,9 +4,15 @@ layout: main
 
 # Publications
 
+### Reinforcement-Learning Based Robotic Assembly of Fractured Objects Using Visual and Tactile Information
+
+**<u>Xinchao Song\*</u>**, Nikolas Lamb\*, Sean Banerjee, Natasha Kholgade Banerjee. 2023 International Conference on Automation, Robotics and Applications (ICARA).
+
+In this paper, we propose a reinforcement learning approach using two novel visual metrics, which we term pixel offset error and assembly error, to assemble complex fractured objects. Our approach does not place constraints on object geometry and estimates the assembly state of the constituent objects in real time. We show tightly assembled fractured and restored pairs in simulation and on real robots.
+
 ### Belief-Grounded Networks for Accelerated Robot Learning under Partial Observability
 
-Hai Nguyen\*, Brett Daley\*, **<u>Xinchao Song</u>**, Chistopher Amato, and Robert Platt. To appear in the *Proceedings of the Conference on Robot Learning*. November, 2020. [[website](https://sites.google.com/view/bgn-pomdp)]
+Hai Nguyen\*, Brett Daley\*, **<u>Xinchao Song</u>**, Chistopher Amato, and Robert Platt. 2020 Conference on Robot Learning (CoRL). [[website](https://sites.google.com/view/bgn-pomdp)]
 
 <iframe class="list-video-right" width="400" height="225" src="https://www.youtube.com/embed/06OJReBYNls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
