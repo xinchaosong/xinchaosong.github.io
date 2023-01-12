@@ -13,6 +13,8 @@ layout: main
 We propose a reinforcement learning approach using two novel visual metrics, which we term pixel offset error and assembly error, to assemble complex fractured objects. Our approach does not place constraints on object geometry and estimates the assembly state of the constituent objects in real time. We show tightly assembled fractured and restored pairs in simulation and on real robots.
 
 &nbsp;
+&nbsp;
+&nbsp;
 
 ### Belief-Grounded Networks for Accelerated Robot Learning under Partial Observability
 
