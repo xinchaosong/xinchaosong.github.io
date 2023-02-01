@@ -34,7 +34,7 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 # Experience
 
-### Research Assistant in Robotics
+### Ph.D. Research Assistant in Robotics
 
 [Terascale All-sensing Research Studio (TARS)](https://tars.clarkson.edu/) at Clarkson University, Potsdam, New York, 2021 - Present
 
@@ -46,7 +46,7 @@ Clarkson University, Potsdam, New York, 2021 - Present
 
 - Assisted in several courses in computer science, see the teaching section for details.
 
-### Research Assistant in Robotics
+### Graduate Research Assistant in Robotics
 
 [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at Northeastern University, Boston, Massachusetts, 2019 - 2021
 
@@ -70,7 +70,7 @@ Biomille Technologies, Boston, Massachusetts, 2014 - 2015
 
 - Designed and prototyped a bracket system for a medical device for facial rehabilitation.
 
-### Research Assistant in Robotics
+### Undergraduate Research Assistant in Robotics
 
 Tianjin University of Science and Technology, Tianjin, China, 2010 - 2011
 
