@@ -40,7 +40,7 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 - Conduct research on robotics and multimodal sensing
 
-### Teaching Assistant in Computer Sciences
+### Graduate Teaching Assistant in Computer Sciences
 
 Clarkson University, Potsdam, New York, 2021 - Present
 
