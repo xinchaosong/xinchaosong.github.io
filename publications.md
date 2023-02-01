@@ -16,7 +16,7 @@ We present a reinforcement learning approach that combines visual and tactile in
 
 ### Internet of Robotic Things: Current Technologies, Applications, Challenges and Future Directions
 
-Davide Villa, **<u>Xinchao Song</u>**, Matthew Heim, Liangshe Li. *arXiv*. [[Paper](https://arxiv.org/abs/2101.06256)]
+Davide Villa, **<u>Xinchao Song</u>**, Matthew Heim, Liangshe Li. *arXiv preprint:2101.06256*. [[Paper](https://arxiv.org/abs/2101.06256)]
 
 <img class="list-img-left" width="400" height="225" src="assets/images/iort_arxiv_2021.png"/>
 
