@@ -52,7 +52,7 @@ Clarkson University, Potsdam, New York, 2021 - Present
 
 - Conduct research on the applications of deep reinforcement learning to robotic tactile and force sensing.
 
-### Lead Teaching Assistant in Computer Sciences
+### Lead Graduate Teaching Assistant in Computer Sciences
 
 Northeastern University Khoury College of Computer Sciences, Boston, Massachusetts, 2018 - 2021
 
