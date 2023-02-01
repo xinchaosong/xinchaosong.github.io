@@ -4,7 +4,7 @@ layout: main
 
 # Teaching
 
-### Teaching Assistant at Clarkson University:
+### Graduate Teaching Assistant at Clarkson University:
 
 - **CS 444/544: Operating Systems (Spring 2022-2023)**
 
@@ -14,7 +14,7 @@ layout: main
 
   Introduces basic object-oriented programming design, graphical user interfaces (GUIs), exception handling, multithreading and synchronization, networking, and client/server applications.
 
-### Teaching Assistant at Northeastern University, Boston:
+### Lead Graduate Teaching Assistant at Northeastern University, Boston:
 
 - **CS 5008: Data Structures, Algorithms, and Their Applications within Computer Systems (Spring 2021)**
 
