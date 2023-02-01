@@ -20,7 +20,7 @@ Davide Villa, **<u>Xinchao Song</u>**, Matthew Heim, Liangshe Li. *arXiv*. [[Pap
 
 <img class="list-img-left" width="400" height="225" src="assets/images/iort_arxiv_2021.png"/>
 
-The concept of the Internet of Things (IoT) is becoming increasingly popular, with the number of connected devices reaching billions. This paper focuses on the fusion between IoT and robotics, called the Internet of Robotic Things (IoRT), and provides a better understanding of the new concept of IoRT with its advantages and limitations, as well as guidelines and directions for future research and studies.
+The concept of the Internet of Things (IoT) is becoming increasingly popular, with the number of connected devices reaching billions. This paper focuses on the fusion of IoT and robotics, called the Internet of Robotic Things (IoRT), and discusses IoRT concepts, architectures, use case examples, key challenges, ethical issues, regulations, and future vision. This paper aims to provide a better understanding of the emerging concept of IoRT, its benefits and limitations, as well as guidelines and directions for future research and studies.
 
 &nbsp;
 
