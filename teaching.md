@@ -18,7 +18,7 @@ layout: main
 
 - **CS 5008: Data Structures, Algorithms, and Their Applications within Computer Systems (Spring 2021)**
 
-  Presents an integrated approach to the study of data structures, algorithms, and their application within computer systems topics.
+  Presents an integrated approach to the study of data structures, algorithms, and their applications within computer systems topics.
 
 - **IS 1500: Introduction to Web Development (Fall 2019-2020)**
 
@@ -26,7 +26,7 @@ layout: main
   
 - **CS 3520: Programming in C++ (Spring 2020)**
 
-  Examines how to program in C++ in a robust and safe manner. Reviews basics, discusses data types and object-oriented design, introduces the strategy for dynamic memory management, and addresses operator overloading and templates.
+  Examines how to program in C++ in a robust and safe manner. Reviews basics, discusses data types and object-oriented design, introduces the strategy for dynamic memory management and addresses operator overloading and templates.
 
 - **CS 5004: Object-Oriented Design (Summer 2018-2019)**
 
@@ -35,3 +35,4 @@ layout: main
 - **DS 5010: Introduction to Programming for Data Science (Fall 2018, Spring 2019)**
 
   Offers an introduction to the fundamentals of data science programming and algorithms using R, Python, and Java.
+
