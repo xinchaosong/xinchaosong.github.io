@@ -38,19 +38,19 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 [Terascale All-sensing Research Studio (TARS)](https://tars.clarkson.edu/) at Clarkson University, Potsdam, New York, 2021 - Present
 
-- Conduct research on robotics and multimodal sensing
+- Conduct research on deep learning based robotic assembly and multimodal sensing for human-robot interaction.
 
 ### Graduate Teaching Assistant in Computer Sciences
 
 Clarkson University, Potsdam, New York, 2021 - Present
 
-- Assisted in several courses in computer science, see the teaching section for details.
+- Assist in several courses in computer science, see the teaching section for details.
 
 ### Graduate Research Assistant in Robotics
 
 [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at Northeastern University, Boston, Massachusetts, 2019 - 2021
 
-- Conduct research on the applications of deep reinforcement learning to robotic tactile and force sensing.
+- Developed robot learning approaches, implemented novel benchmark learning domains, and performed Sim2Real for robotic manipulation.
 
 ### Lead Graduate Teaching Assistant in Computer Sciences
 
@@ -60,15 +60,15 @@ Northeastern University Khoury College of Computer Sciences, Boston, Massachuset
 
 ### Mechatronics Engineer
 
-Perfetch LLC, Malden, Massachusetts, 2015 - 2017
+Perfetch, Malden, Massachusetts, 2015 - 2017
 
-- Developed and prototyped the mechatronics systems for the 3D scanners for the human body.
+- Designed and prototyped the mechatronic systems of full-color 3D body scanners for fitness and healthcare applications.
 
 ### R&D Engineer
 
 Biomille Technologies, Boston, Massachusetts, 2014 - 2015
 
-- Designed and prototyped a bracket system for a medical device for facial rehabilitation.
+- Designed and prototyped a head mount system for a facial rehabilitation device.
 
 ### Undergraduate Research Assistant in Robotics
 
