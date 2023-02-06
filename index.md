@@ -44,7 +44,7 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 Clarkson University, Potsdam, New York, 2021 - Present
 
-- Assist in several courses in computer science, see the teaching section for details.
+- Assist in several courses in computer science, see the [teaching](teaching.md) section for details.
 
 ### Graduate Research Assistant in Robotics
 
@@ -56,7 +56,7 @@ Clarkson University, Potsdam, New York, 2021 - Present
 
 Northeastern University Khoury College of Computer Sciences, Boston, Massachusetts, 2018 - 2021
 
-- Assisted in several courses in computer science and data science, see the teaching section for details.
+- Assisted in several courses in computer science and data science, see the [teaching](teaching.md) section for details.
 
 ### Mechatronics Engineer
 
