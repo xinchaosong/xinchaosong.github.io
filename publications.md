@@ -8,7 +8,7 @@ layout: main
 
 **<u>Xinchao Song</u>**\*, Nikolas Lamb\*, Sean Banerjee, Natasha Kholgade Banerjee. *2023 International Conference on Automation, Robotics and Applications (ICARA)*. [Paper available soon]
 
-<iframe class="list-video-left" width="400" height="225" src="https://www.youtube.com/embed/vXi9ogqOqMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="list-video-right" width="400" height="225" src="https://www.youtube.com/embed/vXi9ogqOqMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We present a reinforcement learning approach that combines visual and tactile information to automatically assemble repair parts to fractured objects. We propose two novel visual metrics, which we term pixel offset error and assembly error, to provide estimation of assembly state. Our approach does not place constraints on object geometry and estimates the assembly state of the constituent objects in real time. We show tightly assembled fractured and restored pairs in simulation and on real robots.
 
