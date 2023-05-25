@@ -6,7 +6,7 @@ layout: main
 
 ### Reinforcement-Learning Based Robotic Assembly of Fractured Objects Using Visual and Tactile Information
 
-**<u>Xinchao Song</u>**\*, Nikolas Lamb\*, Sean Banerjee, Natasha Kholgade Banerjee. *2023 International Conference on Automation, Robotics and Applications (ICARA)*. [Paper available soon]
+**<u>Xinchao Song</u>**\*, Nikolas Lamb\*, Sean Banerjee, Natasha Kholgade Banerjee. *2023 International Conference on Automation, Robotics and Applications (ICARA)*. [[Paper](https://ieeexplore.ieee.org/document/10125938)]
 
 <iframe class="list-video-right" width="400" height="225" src="https://www.youtube.com/embed/vXi9ogqOqMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
