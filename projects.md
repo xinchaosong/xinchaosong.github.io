@@ -9,6 +9,8 @@ layout: main
 <img class="list-img-left" width="200" src="assets/images/dual_stage_helical_gear_reducer.gif"/> One of the most popular 3D CAD models online of a dual-stage helical gear reducer with a total gear ratio of 1:13.26. Available on [GrabCAD](https://grabcad.com/library/dual-stage-helical-gear-reducer-1).
 
 &nbsp;
+&nbsp;
+&nbsp;
 
 ### Barreleye Autograder
 
