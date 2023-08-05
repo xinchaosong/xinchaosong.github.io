@@ -13,4 +13,4 @@ layout: main
 
 ### FCC Amateur Radio Service License - Technician
 
-The Technician class license is the entry-level license that gives access to all Amateur Radio frequencies above 30 megahertz, allowing these licensees the ability to communicate locally and most often within North America. It also allows for some limited privileges on the HF bands used for international communications.
+The FCC Amateur Radio Service Technician class license is the entry-level license that gives access to all Amateur Radio frequencies above 30 megahertz, allowing these licensees the ability to communicate locally and most often within North America. It also allows for some limited privileges on the HF bands used for international communications.
