@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Certifications
+# Certifications / Licenses
 
 ### Certified SOLIDWORKS Professional (CSWP) - Mechanical Design
 
