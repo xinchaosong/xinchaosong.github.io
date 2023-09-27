@@ -40,29 +40,11 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 - Conduct research on deep learning based robotic assembly and multimodal sensing for human-robot interaction.
 
-### Graduate Teaching Assistant in Computer Sciences
-
-Clarkson University, Potsdam, New York, 2021 - Present
-
-- CS 242: Advanced Programming Concepts in Java (Fall 2021-2023)
-- CS 444/544: Operating Systems (Spring 2022-2023)
-- CS 451/551 Artificial Intelligence (Fall 2023)
-
 ### Graduate Research Assistant in Robotics
 
 [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at Northeastern University, Boston, Massachusetts, 2019 - 2021
 
 - Developed robot learning approaches, implemented novel benchmark learning domains, and performed Sim2Real for robotic manipulation.
-
-### Lead Graduate Teaching Assistant in Computer Sciences
-
-Northeastern University Khoury College of Computer Sciences, Boston, Massachusetts, 2018 - 2021
-
-- CS 3520: Programming in C++ (Spring 2020)
-- CS 5004: Object-Oriented Design (Summer 2018-2019)
-- CS 5008: Data Structures, Algorithms, and Their Applications within Computer Systems (Spring 2021)
-- IS 1500: Introduction to Web Development (Fall 2019-2020)
-- DS 5010: Introduction to Programming for Data Science (Fall 2018, Spring 2019)
 
 ### Mechatronics Engineer
 
@@ -76,11 +58,27 @@ Biomille Technologies, Boston, Massachusetts, 2014 - 2015
 
 - Designed and prototyped a head mount system for a facial rehabilitation device.
 
-### Undergraduate Research Assistant in Robotics
+* * *
 
-Tianjin University of Science and Technology, Tianjin, China, 2010 - 2011
+# Teaching
 
-- Conducted research on motion control approaches to the indoor navigation and exploration of autonomous mobile four-wheeled robots.
+### Graduate Teaching Assistant in Computer Sciences
+
+Clarkson University, Potsdam, New York, 2021 - Present
+
+- CS 242: Advanced Programming Concepts in Java (Fall 2021-2023)
+- CS 444/544: Operating Systems (Spring 2022-2023)
+- CS 451/551 Artificial Intelligence (Fall 2023)
+
+### Lead Graduate Teaching Assistant in Computer Sciences
+
+Northeastern University Khoury College of Computer Sciences, Boston, Massachusetts, 2018 - 2021
+
+- CS 3520: Programming in C++ (Spring 2020)
+- CS 5004: Object-Oriented Design (Summer 2018-2019)
+- CS 5008: Data Structures, Algorithms, and Their Applications within Computer Systems (Spring 2021)
+- IS 1500: Introduction to Web Development (Fall 2019-2020)
+- DS 5010: Introduction to Programming for Data Science (Fall 2018, Spring 2019)
 
 * * *
 
