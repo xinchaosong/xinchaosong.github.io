@@ -2,16 +2,6 @@
 layout: main
 ---
 
-![cover](assets/images/header_img.jpg)
-
-# About Me
-
-I am currently a Ph.D. Student in Computer Science at Clarkson University, Potsdam, New York. My advisers are [Prof. Sean Banerjee](https://www.clarkson.edu/people/sean-banerjee) and [Prof. Natasha Banerjee](https://www.clarkson.edu/people/natasha-banerjee). Before joining Clarkson, I received my master's degree in computer science at Northeastern University, Boston, Massachusetts, where I was advised by [Prof. Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/). I also worked in the mechanical engineering field for many years with a master of science in mechanical engineering.
-
-My research interest is robotics and deep learning with a focus on multimodal perception, planning, control, and manipulation, especially from an interdisciplinary perspective of software and hardware.
-
-* * *
-
 # Education
 
 ### Ph.D. Student in Computer Science
