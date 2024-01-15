@@ -56,9 +56,10 @@ Biomille Technologies, Boston, Massachusetts, 2014 - 2015
 
 Clarkson University, Potsdam, New York, 2021 - Present
 
-- CS 242: Advanced Programming Concepts in Java (Fall 2021-2023)
-- CS 444/544: Operating Systems (Spring 2022-2023)
-- CS 451/551 Artificial Intelligence (Fall 2023)
+- CS 242 Advanced Programming Concepts in Java (Fall 2021-2023)
+- CS 444 / CS 544 Operating Systems (Spring 2022-2024)
+- CS 451 / CS 551 Artificial Intelligence (Fall 2023)
+- CS 460 / CS 560 / EE 468 / EE 568 Database Systems (Spring 2024)
 
 ### Lead Graduate Teaching Assistant in Computer Sciences
 
