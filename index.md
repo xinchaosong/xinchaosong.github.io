@@ -56,20 +56,20 @@ Biomille Technologies, Boston, Massachusetts, 2014 - 2015
 
 Clarkson University, Potsdam, New York, 2021 - Present
 
-- CS 242 Advanced Programming Concepts in Java (Fall 2021-2023)
-- CS 444 / CS 544 Operating Systems (Spring 2022-2024)
-- CS 451 / CS 551 Artificial Intelligence (Fall 2023)
-- CS 460 / CS 560 / EE 468 / EE 568 Database Systems (Spring 2024)
+- CS242: Advanced Programming Concepts in Java (Fall 2021-2023)
+- CS444/CS544: Operating Systems (Spring 2022-2024)
+- CS451/CS551: Artificial Intelligence (Fall 2023)
+- CS460/CS560/EE468/EE568: Database Systems (Spring 2024)
 
 ### Lead Graduate Teaching Assistant in Computer Sciences
 
 Northeastern University Khoury College of Computer Sciences, Boston, Massachusetts, 2018 - 2021
 
-- CS 3520: Programming in C++ (Spring 2020)
-- CS 5004: Object-Oriented Design (Summer 2018-2019)
-- CS 5008: Data Structures, Algorithms, and Their Applications within Computer Systems (Spring 2021)
-- IS 1500: Introduction to Web Development (Fall 2019-2020)
-- DS 5010: Introduction to Programming for Data Science (Fall 2018, Spring 2019)
+- CS3520: Programming in C++ (Spring 2020)
+- CS5004: Object-Oriented Design (Summer 2018-2019)
+- CS5008: Data Structures, Algorithms, and Their Applications within Computer Systems (Spring 2021)
+- IS1500: Introduction to Web Development (Fall 2019-2020)
+- DS5010: Introduction to Programming for Data Science (Fall 2018, Spring 2019)
 
 * * *
 
