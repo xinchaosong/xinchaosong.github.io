@@ -105,6 +105,14 @@ We propose a method for policy learning under partial observability called the B
 
 * * *
 
+# Honors & awards
+
+### Computer Science Outstanding Teaching Assistant Award
+
+Clarkson University, 2024
+
+* * *
+
 # Certifications
 
 ### Certified SOLIDWORKS Professional (CSWP) - Mechanical Design
