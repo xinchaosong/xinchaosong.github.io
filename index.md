@@ -24,13 +24,13 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 # Experience
 
-### Ph.D. Research Assistant in Robotics
+### Ph.D. Research Assistant
 
 [Terascale All-sensing Research Studio (TARS)](https://tars-home.github.io/) at Clarkson University, Potsdam, New York, 2021 - Present
 
 - Conduct research on deep learning based robotic assembly and multimodal sensing for human-robot interaction.
 
-### Graduate Research Assistant in Robotics
+### Graduate Research Assistant
 
 [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at Northeastern University, Boston, Massachusetts, 2019 - 2021
 
@@ -52,7 +52,7 @@ Biomille Technologies, Boston, Massachusetts, 2014 - 2015
 
 # Teaching
 
-### Graduate Teaching Assistant in Computer Sciences
+### Graduate Teaching Assistant
 
 Clarkson University, Potsdam, New York, 2021 - Present
 
@@ -61,7 +61,7 @@ Clarkson University, Potsdam, New York, 2021 - Present
 - CS451/CS551 Artificial Intelligence (Fall 2023)
 - CS460/CS560/EE468/EE568 Database Systems (Spring 2024)
 
-### Lead Graduate Teaching Assistant in Computer Sciences
+### Lead Graduate Teaching Assistant
 
 Northeastern University Khoury College of Computer Sciences, Boston, Massachusetts, 2018 - 2021
 
