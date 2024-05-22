@@ -75,6 +75,14 @@ Northeastern University Khoury College of Computer Sciences, Boston, Massachuset
 
 # Publications
 
+### Pix2Repair: Implicit Shape Restoration from Images
+
+**<u>Xinchao Song</u>**\*, Nikolas Lamb\*, Sean Banerjee, Natasha Kholgade Banerjee. *arXiv preprint:2305.18273*. [[Paper](https://arxiv.org/abs/2305.18273)]
+
+<img class="list-img-left" width="400" height="225" src="assets/images/pix2repair.png"/>
+
+We present Pix2Repair, an automated shape repair approach that generates restoration shapes from images to repair fractured objects. Pix2Repair takes an image of the fractured object as input and automatically generates a 3D printable restoration shape. We contribute a novel shape function that deconstructs a latent code representing the fractured object into a complete shape and a break surface. We also introduce Fantastic Breaks Imaged, the first large-scale dataset of 11,653 real-world images of fractured objects for training and evaluating image-based shape repair approaches.
+
 ### Reinforcement-Learning Based Robotic Assembly of Fractured Objects Using Visual and Tactile Information
 
 **<u>Xinchao Song</u>**\*, Nikolas Lamb\*, Sean Banerjee, Natasha Kholgade Banerjee. *2023 International Conference on Automation, Robotics and Applications (ICARA)*. [[Paper](https://ieeexplore.ieee.org/document/10125938)]
@@ -110,6 +118,8 @@ We propose a method for policy learning under partial observability called the B
 ### Computer Science Outstanding Teaching Assistant Award
 
 Clarkson University, 2024
+
+<img class="list-img-left" width="300" src="assets/images/clarkson_best_ta.jpg"/>
 
 * * *
 
