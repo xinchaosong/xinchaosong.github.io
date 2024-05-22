@@ -26,7 +26,7 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 ### Ph.D. Research Assistant in Robotics
 
-[Terascale All-sensing Research Studio (TARS)](https://tars.clarkson.edu/) at Clarkson University, Potsdam, New York, 2021 - Present
+[Terascale All-sensing Research Studio (TARS)](https://tars-home.github.io/) at Clarkson University, Potsdam, New York, 2021 - Present
 
 - Conduct research on deep learning based robotic assembly and multimodal sensing for human-robot interaction.
 
@@ -73,6 +73,32 @@ Northeastern University Khoury College of Computer Sciences, Boston, Massachuset
 
 * * *
 
+# Honors & Awards
+
+### Clarkson University Computer Science Outstanding Teaching Assistant Award
+
+<img class="list-img-right" width="300" src="assets/images/clarkson_best_ta.jpg"/> This award is given to a computer science graduate student in recognition of outstanding achievement as a teaching assistant.
+
+{:style="clear: right"}
+&nbsp;
+
+* * *
+
+# Certifications
+
+### Certified SOLIDWORKS Professional (CSWP) - Mechanical Design
+
+<img class="list-img-right" width="300" src="assets/images/cswp.jpg"/> The CSWP exam is a comprehensive, non-proctored online exam that tests an individual’s ability to design and analyze parametric parts and movable assemblies using a variety of complex features in SOLIDWORKS, including design validation tools. A Certified SOLIDWORKS Professional is an individual that has successfully passed this exam.
+
+{:style="clear: right"}
+&nbsp;
+
+### FCC Amateur Radio Service License - Technician
+
+The FCC Amateur Radio Service Technician class license is the entry-level license that gives access to all Amateur Radio frequencies above 30 megahertz, allowing these licensees the ability to communicate locally and most often within North America. It also allows for some limited privileges on the HF bands used for international communications.
+
+* * *
+
 # Publications
 
 ### Pix2Repair: Implicit Shape Restoration from Images
@@ -110,28 +136,3 @@ Hai Nguyen\*, Brett Daley\*, **<u>Xinchao Song</u>**, Chistopher Amato, Robert P
 <iframe class="list-video-right" width="400" height="225" src="https://www.youtube.com/embed/06OJReBYNls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We propose a method for policy learning under partial observability called the Belief-Grounded Network (BGN) in which an auxiliary belief-reconstruction loss incentivizes a neural network to concisely summarize its input history. Since the resulting policy is a function of the history rather than the belief, it can be executed easily at runtime. We compare BGN against several baselines on classic benchmark tasks as well as three novel robotic touch-sensing tasks. BGN outperforms all other tested methods and its learned policies work well when transferred onto a physical robot.
-
-* * *
-
-# Honors & awards
-
-### Computer Science Outstanding Teaching Assistant Award
-
-Clarkson University, 2024
-
-<img class="list-img-left" width="300" src="assets/images/clarkson_best_ta.jpg"/>
-
-* * *
-
-# Certifications
-
-### Certified SOLIDWORKS Professional (CSWP) - Mechanical Design
-
-<img class="list-img-right" width="200" src="assets/images/cswp.jpg"/> The CSWP exam is a comprehensive, non-proctored online exam that tests an individual’s ability to design and analyze parametric parts and movable assemblies using a variety of complex features in SOLIDWORKS, including design validation tools. A Certified SOLIDWORKS Professional is an individual that has successfully passed this exam.
-
-{:style="clear: left"}
-&nbsp;
-
-### FCC Amateur Radio Service License - Technician
-
-The FCC Amateur Radio Service Technician class license is the entry-level license that gives access to all Amateur Radio frequencies above 30 megahertz, allowing these licensees the ability to communicate locally and most often within North America. It also allows for some limited privileges on the HF bands used for international communications.
