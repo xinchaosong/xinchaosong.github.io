@@ -4,7 +4,7 @@ layout: main
 
 # Education
 
-### Ph.D. Student in Computer Science
+### Ph.D. Candidate in Computer Science
 
 Clarkson University, Potsdam, New York, 2021 - Present
 
@@ -42,12 +42,6 @@ Perfetch, Malden, Massachusetts, 2015 - 2017
 
 - Designed and prototyped the mechatronic systems of full-color 3D body scanners for fitness and healthcare applications.
 
-### R&D Engineer
-
-Biomille Technologies, Boston, Massachusetts, 2014 - 2015
-
-- Designed and prototyped a head mount system for a facial rehabilitation device.
-
 * * *
 
 # Teaching
@@ -57,9 +51,9 @@ Biomille Technologies, Boston, Massachusetts, 2014 - 2015
 Clarkson University, Potsdam, New York, 2021 - Present
 
 - CS242 Advanced Programming Concepts in Java (Fall 2021-2023)
-- CS444/CS544 Operating Systems (Spring 2022-2024)
+- CS444/CS544 Operating Systems (Spring 2022-2025)
 - CS451/CS551 Artificial Intelligence (Fall 2023)
-- CS460/CS560/EE468/EE568 Database Systems (Spring 2024)
+- CS460/CS560/EE468/EE568 Database Systems (Spring 2024-2025)
 
 ### Lead Graduate Teaching Assistant
 
@@ -100,6 +94,16 @@ The FCC Amateur Radio Service Technician class license is the entry-level licens
 * * *
 
 # Publications
+
+### HILO: A Large-Scale Heterogeneous Object Dataset for Benchmarking Robotic Grasping Approaches
+
+**<u>Xinchao Song</u>**, Sean Banerjee, Natasha Kholgade Banerjee. *2025 International Conference on Automation, Robotics and Applications (ICARA)*. [[Website](https://terascale-all-sensing-research-studio.github.io/hilo_dataset/)]
+
+<img class="list-img-right" width="400" height="225" src="assets/images/hilo_dataset.png"/>
+
+We present HILO, a large-scale comprehensive dataset that contains 253 everyday objects with their HIgh-resolution models and 288 LOw-resolution diverse cluttered scenes with 32,256 sets of RGBD images, masks, and annotations. We conduct bench-marking of three leading grasping approaches on our dataset and reveal the important trade-offs between grasp quantity and quality.
+
+&nbsp;
 
 ### Pix2Repair: Implicit Shape Restoration from Images
 
