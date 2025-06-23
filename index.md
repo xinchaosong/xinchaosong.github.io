@@ -6,7 +6,7 @@ layout: main
 
 ### Ph.D. Candidate in Computer Science
 
-Clarkson University, Potsdam, New York, 2021 - Present
+Clarkson University, Potsdam, New York, 2025
 
 ### Master of Science in Computer Science
 
@@ -26,7 +26,7 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 ### Ph.D. Research Assistant
 
-[Terascale All-sensing Research Studio (TARS)](https://tars-home.github.io/) at Clarkson University, Potsdam, New York, 2021 - Present
+[Terascale All-sensing Research Studio (TARS)](https://tars-home.github.io/) at Clarkson University, Potsdam, New York, 2021 - 2025
 
 - Conduct research on deep learning based robotic assembly and multimodal sensing for human-robot interaction.
 
@@ -48,11 +48,11 @@ Perfetch, Malden, Massachusetts, 2015 - 2017
 
 ### Graduate Teaching Assistant
 
-Clarkson University, Potsdam, New York, 2021 - Present
+Clarkson University, Potsdam, New York, 2021 - 2025
 
-- CS242 Advanced Programming Concepts in Java (Fall 2021-2023)
+- CS242 Advanced Programming Concepts in Java (Fall 2021-2024)
 - CS444/CS544 Operating Systems (Spring 2022-2025)
-- CS451/CS551 Artificial Intelligence (Fall 2023)
+- CS451/CS551 Artificial Intelligence (Fall 2023-2024)
 - CS460/CS560/EE468/EE568 Database Systems (Spring 2024-2025)
 
 ### Lead Graduate Teaching Assistant
