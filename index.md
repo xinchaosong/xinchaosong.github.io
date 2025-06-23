@@ -4,9 +4,9 @@ layout: main
 
 # Education
 
-### Ph.D. Candidate in Computer Science
+### Ph.D. in Computer Science
 
-Clarkson University, Potsdam, New York, 2021 - Present
+Clarkson University, Potsdam, New York, 2025
 
 ### Master of Science in Computer Science
 
@@ -22,48 +22,48 @@ Tianjin University of Science and Technology, Tianjin, China, 2011
 
 * * *
 
-# Experience
-
-### Ph.D. Research Assistant
-
-[Terascale All-sensing Research Studio (TARS)](https://tars-home.github.io/) at Clarkson University, Potsdam, New York, 2021 - Present
-
-- Conduct research on deep learning based robotic assembly and multimodal sensing for human-robot interaction.
-
-### Graduate Research Assistant
-
-[Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at Northeastern University, Boston, Massachusetts, 2019 - 2021
-
-- Developed robot learning approaches, implemented novel benchmark learning domains, and performed Sim2Real for robotic manipulation.
-
-### Mechatronics Engineer
-
-Perfetch, Malden, Massachusetts, 2015 - 2017
-
-- Designed and prototyped the mechatronic systems of full-color 3D body scanners for fitness and healthcare applications.
-
-* * *
-
 # Teaching
 
-### Graduate Teaching Assistant
+### Rochester Institute of Technology
 
-Clarkson University, Potsdam, New York, 2021 - Present
+- GCIS123: Software Development and Problem Solving I (Fall 2025)
+- ISTE222: Applied Data Structures and Algorithms (Fall 2025)
+- ISTE230: Introduction to Database and Data Modeling (Fall 2025)
 
-- CS242 Advanced Programming Concepts in Java (Fall 2021-2023)
+### Clarkson University
+
+- CS242 Advanced Programming Concepts in Java (Fall 2021-2024)
 - CS444/CS544 Operating Systems (Spring 2022-2025)
-- CS451/CS551 Artificial Intelligence (Fall 2023)
+- CS451/CS551 Artificial Intelligence (Fall 2023-2024)
 - CS460/CS560/EE468/EE568 Database Systems (Spring 2024-2025)
 
-### Lead Graduate Teaching Assistant
-
-Northeastern University Khoury College of Computer Sciences, Boston, Massachusetts, 2018 - 2021
+### Northeastern University
 
 - CS3520 Programming in C++ (Spring 2020)
 - CS5004 Object-Oriented Design (Summer 2018-2019)
 - CS5008 Data Structures, Algorithms, and Their Applications within Computer Systems (Spring 2021)
 - IS1500 Introduction to Web Development (Fall 2019-2020)
 - DS5010 Introduction to Programming for Data Science (Fall 2018, Spring 2019)
+
+* * *
+
+# Experience
+
+### Lecturer
+
+Rochester Institute of Technology, Rochester, New York, 2025 - Present
+
+### Ph.D. Research Assistant
+
+[Terascale All-sensing Research Studio (TARS)](https://tars-home.github.io/) at Clarkson University, Potsdam, New York, 2021 - 2025
+
+### Graduate Research Assistant
+
+[Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at Northeastern University, Boston, Massachusetts, 2019 - 2021
+
+### Mechatronics Engineer
+
+Perfetch, Malden, Massachusetts, 2015 - 2017
 
 * * *
 
